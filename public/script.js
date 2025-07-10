@@ -3,7 +3,7 @@ let allBosses = []; // Variável global para armazenar os dados dos bosses
 // Função para carregar os dados dos bosses
 async function loadBosses() {
     try {
-        const response = await fetch('../bosses.json');
+        const response = await fetch('bosses.json');
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
