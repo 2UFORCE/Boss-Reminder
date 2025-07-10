@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/send-alert.js": {
+      "runtime": "nodejs@18.x"
+    }
+  }
+}

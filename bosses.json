@@ -1,0 +1,129 @@
+
+{
+  "version": "1.0.0",
+  "timezone": "America/Sao_Paulo",
+  "bosses": [
+    {
+      "id": "galia_black",
+      "name": "Galia Black",
+      "location": "Lost Tower 1",
+      "coordinates": "166, 77",
+      "schedule": [
+        { "time": "10:45", "days": ["Everyday"] },
+        { "time": "16:45", "days": ["Everyday"] }
+      ],
+      "notes": "À esquerda do /move"
+    },
+    {
+      "id": "kundun",
+      "name": "Kundun",
+      "location": "Kalima 6",
+      "coordinates": "25, 75",
+      "schedule": [
+        { "time": "13:10", "days": ["Everyday"] },
+        { "time": "15:10", "days": ["Everyday"] }
+      ],
+      "notes": "Dropar Lost Map +6, vende no bar"
+    },
+    {
+      "id": "blood_wizard",
+      "name": "Blood Wizard",
+      "location": "Devias (/pvp2)",
+      "coordinates": "159, 32",
+      "schedule": [
+        { "time": "18:10", "days": ["Everyday"] }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "crusher_skeleton",
+      "name": "Crusher Skeleton",
+      "location": "Lorencia",
+      "coordinates": "Spawn aleatório",
+      "schedule": [
+        { "time": "19:05", "days": ["Everyday"] }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "necromancer",
+      "name": "Necromancer",
+      "location": "Elbeland 2 (/devias4)",
+      "coordinates": "29, 39",
+      "schedule": [
+        { "time": "19:40", "days": ["Everyday"] }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "selupan",
+      "name": "Selupan",
+      "location": "Raklion",
+      "coordinates": "174, 202",
+      "schedule": [
+        { "time": "20:10", "days": ["Everyday"] }
+      ],
+      "notes": "Logo após a ponte /pvp4"
+    },
+    {
+      "id": "skull_reaper",
+      "name": "Skull Reaper",
+      "location": "Dungeon 1",
+      "coordinates": "92, 237",
+      "schedule": [
+        { "time": "20:50", "days": ["Everyday"] }
+      ],
+      "notes": "À esquerda do /move"
+    },
+    {
+      "id": "gwyn",
+      "name": "Gwyn, o Senhor das Cinzas",
+      "location": "Dungeon 3",
+      "coordinates": "25, 72",
+      "schedule": [
+        { "time": "22:10", "days": ["Everyday"] }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "hellmaine",
+      "name": "Hellmaine",
+      "location": "Aida",
+      "coordinates": "115, 100",
+      "schedule": [
+        { "time": "22:30", "days": ["Everyday"] }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "balgass",
+      "name": "Balgass",
+      "location": "Crywolf Fortress",
+      "coordinates": "112, 80",
+      "schedule": [
+        { "time": "23:00", "days": ["Wednesday", "Saturday"] }
+      ],
+      "notes": "Somente às Quartas e Sábados"
+    },
+    {
+      "id": "yhorm",
+      "name": "Yhorm",
+      "location": "/lorencia1",
+      "coordinates": "22, 46",
+      "schedule": [
+        { "time": "23:40", "days": ["Everyday"] }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "zorlak",
+      "name": "Zorlak",
+      "location": "Lorencia",
+      "coordinates": "Spawn aleatório",
+      "schedule": [
+        { "time": "01:10", "days": ["Everyday"] }
+      ],
+      "notes": ""
+    }
+  ]
+}

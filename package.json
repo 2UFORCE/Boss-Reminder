@@ -1,0 +1,12 @@
+{
+  "name": "boss-remainder-root",
+  "version": "1.0.0",
+  "description": "Root package for Boss Remainder project",
+  "main": "index.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

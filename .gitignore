@@ -1,0 +1,4 @@
+node_modules/
+.vercel/
+ERROS.txt
+temp_payload.json

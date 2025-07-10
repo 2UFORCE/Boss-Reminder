@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Boss Remainder</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Boss Remainder</h1>
+    <div id="boss-list-container">
+        <h2>Bosses Disponíveis</h2>
+        <ul id="boss-list"></ul>
+    </div>
+
+    <div id="alert-sender-container">
+        <h2>Enviar Alerta</h2>
+        <label for="boss-select">Selecione o Boss:</label>
+        <select id="boss-select"></select>
+
+        <label for="time-select">Selecione o Horário:</label>
+        <select id="time-select"></select>
+
+        <label for="alert-message">Mensagem do Alerta:</label>
+        <textarea id="alert-message" rows="4" cols="50"></textarea>
+
+        <button id="send-alert-button">Enviar Alerta</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
