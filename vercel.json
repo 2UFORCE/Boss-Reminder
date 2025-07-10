@@ -9,6 +9,10 @@
     {
       "src": "/api/(.*)",
       "dest": "/api/send-alert.js"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/frontend/$1"
     }
   ]
 }
